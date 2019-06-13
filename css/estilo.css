@@ -8,4 +8,52 @@ body {
   font-size: 14px;
   line-height: 1.27;
   color: #354052;
+
+}
+
+.pai {
+  width: 47%;
+  margin: 0 auto;
+ 
+}
+
+.titulo {
+font-size: 80px;
+font-weight: 400;
+color:#6b3de4;
+margin-top: 67px;
+}
+
+.cafe {
+  width: 592px;
+  height: 356px;
+}
+
+
+div h2 {
+  width: 584px;
+font-size: 40px;
+font-weight: normal;
+line-height: 1.5;
+}
+
+div p { 
+  width: 592px;
+  height: 131px;
+  font-size: 30px;
+  font-weight: 300;
+}
+
+div button {
+  width: 586px;
+  height: 85px;
+  border-radius: 4px;
+  background-color: #007ac2;
+}
+
+.botao {
+  width: 408px;
+  height: 38px;
+  font-size: 30px;
+  color: #ffffff;
 }

@@ -67,14 +67,17 @@ div p {
   margin-top: 62px;
 }
 
+
 footer {
   margin-left: 249px;
 }
 
-footer h2 {
+footer h3 {
   margin-left: 109px;
   font-size: 45px;
   font-weight: normal;
+  padding-top: 65px;
+
 }
 
 footer p {
@@ -89,10 +92,17 @@ footer p {
   list-style: none;
 }
 
+.redes-sociais, .fab {
+  font-size: 28px;
+  padding: 12px;
+
+}
+
+
 .copyright {
   font-size: 16px;   
   margin-left: 225px;
-  margin-top: 25px;
+  margin-top: 10px;
   margin-bottom: 10px;
 }
 

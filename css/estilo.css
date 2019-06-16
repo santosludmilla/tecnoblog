@@ -20,8 +20,8 @@ body {
 .titulo {
 font-size: 80px;
 font-weight: 400;
-color:#6b3de4;
 margin-top: 67px;
+color:#6b3de4;
 }
 
 .cafe {
@@ -30,14 +30,14 @@ margin-top: 67px;
 }
 
 
-div h2 {
+.subtitulo {
   width: 584px;
 font-size: 40px;
 font-weight: normal;
 line-height: 1.5;
 }
 
-div p { 
+.info { 
   width: 592px;
   height: 131px;
   font-size: 30px;
@@ -48,7 +48,6 @@ div p {
  
   border-radius: 4px;
   background-color: #007ac2;
-  display: flex;
 
 }
 
@@ -68,7 +67,7 @@ div p {
 }
 
 
-footer {
+.rodape {
   margin-left: 249px;
 }
 

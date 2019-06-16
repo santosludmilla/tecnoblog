@@ -20,15 +20,15 @@ body {
   font-weight: 400;
   color:#6b3de4;
   margin-top: 67px;
+  margin-bottom: 50px;
 }
-
-body div img {
+.primeira-imagem {
     width: 592px;
     height: 356px;
     background-color:#f5e9f3;
 }
 
-body div h2 {
+.subtitulo {
     width: 584px;
     font-size: 40px;
     font-weight: normal;
@@ -36,7 +36,7 @@ body div h2 {
     margin-top: 38px;
 }
 
-body div p {
+.info  {
 width: 592px;
 height: 95px;
 margin-top: 24px;
@@ -45,18 +45,41 @@ font-weight: 300;
 text-align: left;
 }
 
-.primeira-imagem {
-    width: 592px;
-    height: 356px;
-  
-}
 
 .imagens {
     width: 288px;
     height: 242px; 
 }
 
-.blocao-imagens {
+.blocao-das-imagens {
+    
+    width: 590px;
     display: flex;
+    justify-content: space-between;
     flex-wrap: wrap;
+}
+
+.bloco-das-imagens {;
+
+}
+
+.bloco-das-imagens  {
+    text-align: center;
+}
+
+.bloco-das-imagens {
+    font-size: 20px;
+    line-height: 2;
+    margin-bottom: 49px;
+}
+
+.bloco-das-imagens p {
+    font-size: 18px;
+    font-weight: 300;
+  line-height: 1.33;
+}
+
+.quarteto-das-imagens {
+    width: 288px;
+  height: 242px;
 }

@@ -1,0 +1,57 @@
+link do cafe: file:///home/ludmila/Documentos/tecnoblog/index.html
+dar uma margin no h1 e dimuni os p
+
+
+
+
+             <section class="quadro-servicos">
+                <div class="retangulo-serviços">
+                    <img src="img/cachorro2.PNG"  class="images-servicos" alt="">
+                    <p class="titulo-quadro-servicos">Heartsy</p>
+                    <p class="info-quadro-servicos">Filter quickly by using our heartsy tool</p>
+                </div>
+
+                 <div class="retangulo-serviços">
+                    <img src="img/cachorro3.PNG" class="images-servicos" alt="">
+                    <p class="titulo-quadro-servicos">PawPaw</p>
+                    <p class="info-quadro-servicos">Book online with PawPaw</p>
+                </div>
+
+                 <div class="retangulo-serviços">
+                    <img src="img/cacorro4.PNG" class="images-servicos" alt="">
+                    <p class="titulo-quadro-servicos">Foodeey</p>
+                    <p class="info-quadro-servicos">Foodeey is only for you</p>
+                </div>
+
+                 <div class="retangulo-serviços">
+                    <img src="img/caminhao.PNG" class="images-servicos" alt="">
+                    <p class="titulo-quadro-servicos">Delivery</p>
+                    <p class="info-quadro-servicos">We deliver, anywhere, everywhere</p>
+                </div>
+            </section>
+
+             <button class="btn-estilo btn-texto"><a href="index.html"> Start Creating Awwwesome Stuff</a></button>
+        </section>
+    </article>
+
+
+     <footer class="rodape">
+        <div class="CorpoSite rodape-estilo">
+            <h3>We’d love to hear from you!</h3>
+
+             <h4>Help us improve by sharing your feedback in this short <u>survey.</u></h4>
+
+             <div class="redes-sociais">
+                <a href="https://www.facebook.com/"><i class="fab fa-facebook-f"></i></a>
+                <a href="https://twitter.com/login?lang=pt"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.instagram.com/"><i class="fab fa-instagram"></i></a>
+            </div>
+
+             <p class="copyright">Copyright © 2018 <strong>ella</strong>. All Rights Reserved.</p>
+            <p class="copyright"><strong>help@ella.com | 1(800)123-90-87</strong></p>
+        </div>
+    </footer>
+
+ </body>
+
+ </html> 

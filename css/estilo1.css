@@ -1,0 +1,62 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 14px;
+    line-height: 1.27;
+    color: #354052;
+}
+
+.pai {
+    width: 47%;
+    margin: 0 auto;
+}
+  
+  .titulo {
+  font-size: 80px;
+  font-weight: 400;
+  color:#6b3de4;
+  margin-top: 67px;
+}
+
+body div img {
+    width: 592px;
+    height: 356px;
+    background-color:#f5e9f3;
+}
+
+body div h2 {
+    width: 584px;
+    font-size: 40px;
+    font-weight: normal;
+    line-height: 1.5;
+    margin-top: 38px;
+}
+
+body div p {
+width: 592px;
+height: 95px;
+margin-top: 24px;
+font-size: 30px;
+font-weight: 300;
+text-align: left;
+}
+
+.primeira-imagem {
+    width: 592px;
+    height: 356px;
+  
+}
+
+.imagens {
+    width: 288px;
+    height: 242px; 
+}
+
+.blocao-imagens {
+    display: flex;
+    flex-wrap: wrap;
+}

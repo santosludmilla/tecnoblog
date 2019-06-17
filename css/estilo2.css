@@ -59,18 +59,12 @@ text-align: left;
     flex-wrap: wrap;
 }
 
-.bloco-das-imagens {;
-
-}
-
 .bloco-das-imagens  {
     text-align: center;
-}
-
-.bloco-das-imagens {
     font-size: 20px;
     line-height: 2;
     margin-bottom: 49px;
+    margin-top: 30px;
 }
 
 .bloco-das-imagens p {
@@ -82,4 +76,16 @@ text-align: left;
 .quarteto-das-imagens {
     width: 288px;
   height: 242px;
+}
+
+.botao {
+    border-radius: 4px;
+    background-color: #007ac2;
+}
+
+.texto-do-botao {
+    width: 586px;
+    height: 86px;
+    font-size: 30px;
+    color:#f5f5f5;
 }

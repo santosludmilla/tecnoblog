@@ -43,15 +43,16 @@ line-height: 1.5;
 }
 
 .botao {
- 
+  width: 586px;
+  height: 85px;
   border-radius: 4px;
   background-color: #007ac2;
 }
 
 .texto-do-botao {
-  width: 586px;
-  height: 85px;
+
   font-size: 30px;
+  text-decoration: none;
   color: #ffffff;
 }
 
